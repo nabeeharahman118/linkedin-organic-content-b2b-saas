@@ -4,13 +4,13 @@
 
 This project analyzes top LinkedIn creators and SaaS marketing experts to understand how high-performing organic content is structured, distributed, and optimized for audience growth and business impact.
 
----
+
 
 ## What This Repository Contains
 
 This repository is a structured research system based on 10 high-signal content creators in the B2B SaaS and LinkedIn growth space.
 
----
+
 
 ## Research Structure
 
@@ -34,7 +34,6 @@ This repository is a structured research system based on 10 high-signal content 
   - Psychological triggers
   - Growth patterns
 
----
 
 ## Key Learnings from Research
 
@@ -44,7 +43,7 @@ This repository is a structured research system based on 10 high-signal content 
 - Emotional relatability increases content performance
 - Audience trust matters more than audience size
 
----
+
 
 ## Purpose of This Research
 
@@ -54,7 +53,7 @@ To build a foundation for creating a practical playbook for:
 - Creator-led audience building
 - Content distribution systems
 
----
+
 
 ## Status
 
@@ -63,7 +62,7 @@ To build a foundation for creating a practical playbook for:
 - [x] Pattern extraction completed
 - [ ] Full expansion to all experts (ongoing refinement)
 
----
+
 
 ## Notes
 
