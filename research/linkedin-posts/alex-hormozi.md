@@ -46,7 +46,6 @@ Why It Worked:
 - Highly relatable in sales/business conversations
 - Strong “truth statement” style hook
 
----
 
 ### Post 2
 
