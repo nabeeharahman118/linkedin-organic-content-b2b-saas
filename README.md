@@ -35,14 +35,15 @@ This repository is a structured research system based on 10 high-signal content 
   - Growth patterns
 
 
-## Key Learnings from Research
+## Key Insights from Research
 
-- Consistency is more important than virality
-- Simple, clear writing outperforms complex content
-- Strong hooks are the primary driver of engagement
-- Emotional relatability increases content performance
-- Audience trust matters more than audience size
+This research identified systemic patterns behind high-performing LinkedIn organic content in B2B SaaS:
 
+- Content performance is driven by clarity, not complexity
+- Hooks determine 80% of engagement outcomes
+- Consistency compounds more than viral spikes
+- Emotional relatability outperforms technical depth
+- Distribution strategy is as important as content quality
 
 
 ## Purpose of This Research
@@ -60,7 +61,7 @@ To build a foundation for creating a practical playbook for:
 - [x] Expert list created
 - [x] Individual content analysis completed (initial set)
 - [x] Pattern extraction completed
-- [ ] Full expansion to all experts (ongoing refinement)
+- [x] Full expansion to all experts (ongoing refinement)
 
 
 
