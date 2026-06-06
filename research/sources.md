@@ -1,83 +1,45 @@
 # Sources - Experts List
 
-This file contains 10 high-signal experts in LinkedIn Organic Content Strategy for B2B SaaS.
+This file lists all selected experts for LinkedIn Organic Content Strategy (B2B SaaS).
 
 ---
 
-## 1.
-Name:
-Platform:
-Link:
-Why this expert:
+## 1. Justin Welsh
+Link: https://www.linkedin.com/in/justinwelsh/
+Focus: LinkedIn growth, personal branding, solopreneur systems
 
----
+## 2. Alex Hormozi
+Link: https://www.youtube.com/@AlexHormozi
+Focus: Growth frameworks, marketing, business scaling
 
-## 2.
-Name:
-Platform:
-Link:
-Why this expert:
+## 3. Ross Simmonds
+Link: https://www.linkedin.com/in/rosssimmonds/
+Focus: Content distribution, repurposing, SaaS marketing
 
----
+## 4. Kieran Flanagan
+Link: https://www.linkedin.com/in/kieranjflanagan/
+Focus: SaaS growth, marketing experiments
 
-## 3.
-Name:
-Platform:
-Link:
-Why this expert:
+## 5. Nicolas Cole
+Link: https://www.linkedin.com/in/nicolascole77/
+Focus: Writing systems, viral content frameworks
 
----
+## 6. Dickie Bush
+Link: https://www.linkedin.com/in/dickiebush/
+Focus: Writing online, content systems, audience building
 
-## 4.
-Name:
-Platform:
-Link:
-Why this expert:
+## 7. Hiten Shah
+Link: https://www.linkedin.com/in/hitenshah/
+Focus: SaaS product growth, founder insights
 
----
+## 8. Sam Parr
+Link: https://www.linkedin.com/in/thesamparr/
+Focus: Audience building, content monetization
 
-## 5.
-Name:
-Platform:
-Link:
-Why this expert:
+## 9. Demand Curve
+Link: https://www.demandcurve.com/
+Focus: SaaS acquisition, growth case studies
 
----
-
-## 6.
-Name:
-Platform:
-Link:
-Why this expert:
-
----
-
-## 7.
-Name:
-Platform:
-Link:
-Why this expert:
-
----
-
-## 8.
-Name:
-Platform:
-Link:
-Why this expert:
-
----
-
-## 9.
-Name:
-Platform:
-Link:
-Why this expert:
-
----
-
-## 10.
-Name:
-Platform:
-Link:
-Why this expert:
+## 10. Mayur Gupta
+Link: https://www.linkedin.com/in/mayurgupta/
+Focus: Marketing leadership, growth strategy
