@@ -9,7 +9,7 @@ Link: https://www.linkedin.com/in/justinwelsh/
 Focus: LinkedIn growth, personal branding, solopreneur systems
 
 ## 2. Alex Hormozi
-Link: https://www.youtube.com/@AlexHormozi
+Link: https://www.linkedin.com/in/alexhormozi/
 Focus: Growth frameworks, marketing, business scaling
 
 ## 3. Ross Simmonds
