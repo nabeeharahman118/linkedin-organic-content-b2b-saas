@@ -1,0 +1,1 @@
+# Content Patterns Observed
