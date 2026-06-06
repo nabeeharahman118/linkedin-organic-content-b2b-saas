@@ -4,7 +4,7 @@
 
 Alex Hormozi is one of the most influential business and marketing creators known for high-impact content on scaling businesses, offers, and customer acquisition. His LinkedIn content is highly analytical, direct, and focused on business growth mechanics.
 
----
+
 
 ## Profile
 
@@ -14,7 +14,7 @@ Alex Hormozi is one of the most influential business and marketing creators know
 - Focuses on offers, marketing, and revenue growth
 - Strong authority in SaaS and DTC growth thinking
 
----
+
 
 ## Key Observations
 
@@ -25,7 +25,7 @@ Alex Hormozi is one of the most influential business and marketing creators know
 - Often explains patterns behind success/failure
 - High-value insights without storytelling fluff
 
----
+
 
 ## Example Posts
 
@@ -65,7 +65,7 @@ Why It Worked:
 - Reinforces compounding effect principle
 - Relatable to creators and founders
 
----
+
 
 ### Post 3
 
@@ -84,4 +84,3 @@ Why It Worked:
 - Challenges common assumptions about followers
 - Highly actionable for creators and marketers
 
----
