@@ -4,7 +4,7 @@ This document synthesizes insights from 10 high-signal LinkedIn creators and Saa
 
 
 
-## 1. Hook Patterns (Attention Phase)
+## 1. Hook Patterns 
 
 Across all experts, hooks consistently follow:
 
@@ -18,7 +18,7 @@ Insight: Hooks are designed to STOP scrolling, not explain.
 
 
 
-## 2. Content Structure Patterns (Delivery Phase)
+## 2. Content Structure Patterns
 
 Most high-performing posts follow:
 
@@ -35,7 +35,7 @@ Insight: Simplicity increases perceived authority.
 
 
 
-## 3. Psychological Drivers (Engagement Phase)
+## 3. Psychological Drivers
 
 Content performs because of:
 
